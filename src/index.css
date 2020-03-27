@@ -1,0 +1,19 @@
+div#root {
+    justify-content: center;
+    display: flex;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form div {
+    display: flex;
+    justify-content: space-between;
+}
